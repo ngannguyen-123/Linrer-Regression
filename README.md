@@ -1,5 +1,11 @@
 # Linrer-Regression
 Linear regression algorithm
   - Linear regression with python
+      + 1 sample
+      + m sample
+      + N sample
   - Linear regression with numpy
-  - Linear regression with tensorflow 
+      + 1 sample
+      + m sample
+      + N sample
+  - Linear regression with tensorflow   
